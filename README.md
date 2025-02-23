@@ -1,7 +1,3 @@
-Aqui está o README atualizado com uma explicação sobre o padrão **MVC (Model-View-Controller)**:
-
----
-
 # Jogo da Vida de Conway
 
 Este projeto implementa o famoso **Jogo da Vida de Conway** em C++, utilizando o padrão **MVC (Model-View-Controller)**. O jogo simula o comportamento de células vivas e mortas em uma grade bidimensional, seguindo regras simples de reprodução, morte e sobrevivência.
@@ -108,6 +104,4 @@ Para dúvidas ou sugestões, entre em contato:
 - **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/arthur-bretas-b2a6a82b9/)
 - **GitHub:** [Meu GitHub](https://github.com/BretasArthur1)
 
----
 
-Este README agora inclui uma explicação clara sobre o padrão MVC e como ele foi aplicado no projeto. Você pode ajustar os detalhes conforme necessário!
