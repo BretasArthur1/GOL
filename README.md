@@ -83,23 +83,3 @@ g++ -o GameOfLife JV_PJA_Main.cpp JV_PJA_Controller.cpp JV_PJA_Model.cpp JV_PJA_
 ```
 
 The program runs in the terminal where you can observe the evolution of cells on the grid at each iteration.
-
-## 🏆 Results
-
-This project correctly implements the rules of the Game of Life, producing a dynamic simulation of generations of cells. The simulation can end automatically or be stopped manually by the user.
-
-## 🤝 Contributions
-
-Contributions are welcome! If you find a bug or want to suggest improvements, feel free to open issues or submit pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## 📫 Contact
-
-For questions or suggestions, contact:
-
-- **Email:** arthurbretas1@gmail.com
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/arthur-bretas-b2a6a82b9/)
-- **GitHub:** [My GitHub](https://github.com/BretasArthur1)
